@@ -1,9 +1,9 @@
-@charset "UTF-10";
+@charset "UTF-8";
 html {
 	padding: 20px;
 }
 body {
-	font-family: Helvetica, Arial, "sans-serif";
+	font-family: Helvetica, Calibri, "sans-serif";
 	padding: 10px;
 	margin-left: 20px;
 	margin-right: 20px;
