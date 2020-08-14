@@ -43,8 +43,8 @@ h2{
 	padding: 5px;
 }
 #content-info {
-	float:right;
-	width: 70%;
+	float:left;
+	width: 50%;
 	vertical-align: bottom;
 	padding: 5px;
 }
