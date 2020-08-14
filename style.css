@@ -48,6 +48,13 @@ h2{
 	vertical-align: bottom;
 	padding: 5px;
 }
+#content-center {
+	text-align: center;
+	float:right;
+	width: 70%;
+	vertical-align: bottom;
+	padding: 5px;
+}
 
 footer {
 	clear: both;
