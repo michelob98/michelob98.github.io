@@ -36,6 +36,10 @@ h3{
 	text-align: right;
 }
 
+.date {
+	float: right;
+}
+
 #content {
 	float:right;
 	width: 70%;
